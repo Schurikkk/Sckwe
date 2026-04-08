@@ -25,7 +25,8 @@
 
 ## Изображение
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJmUyDa1ac33VXR9j70shaPQoQpPwu6M7sA&s
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/209d582d-4245-4e14-8d5a-c5f3e6fe52cc" />
+
 
 ## Таблица 3×3
 
